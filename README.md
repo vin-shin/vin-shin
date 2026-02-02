@@ -5,7 +5,7 @@
 
 - Electronics Lead at [Gaucho Racing](https://gauchoracing.com/)
 
-- check my "website" out [shin.vin](shin.vin)
+- check my "website" out [shin.vin](https://shin.vin)
 
 - Things I am really interested in: **Power electronics, Photonics, RF.**
 
