@@ -1,4 +1,4 @@
-<h1 align="center">hi, im vin</h1>
+<h1 align="center">hi, im vin!</h1>
 <h3 align="center">A slightly lead poisoned electrical engineering student at UCSB.</h3>
 
 - FOCing the [mako shortfin](https://github.com/vin-shin/makoshortfin)
