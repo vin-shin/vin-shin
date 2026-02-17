@@ -1,7 +1,7 @@
 <h1 align="center">hi, im vin!</h1>
 <h3 align="center">An electrical engineering student at UCSB.</h3>
 
-- FOCing the [mako longfin](https://github.com/vin-shin/makolongfin)
+- FOCing the [mako traction controller](https://github.com/vin-shin/makoshortfin)
 
 - Electronics Lead at [Gaucho Racing](https://gauchoracing.com/)
 
