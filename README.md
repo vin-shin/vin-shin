@@ -1,7 +1,7 @@
 <h1 align="center">hi, im vin!</h1>
 <h3 align="center">A slightly lead poisoned electrical engineering student at UCSB.</h3>
 
-- FOCing the [mako shortfin](https://github.com/vin-shin/makoshortfin)
+- FOCing the [mako longfin](https://github.com/vin-shin/makolongfin)
 
 - Electronics Lead at [Gaucho Racing](https://gauchoracing.com/)
 
