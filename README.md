@@ -7,7 +7,7 @@
 
 - check my "website" out [shin.vin](https://shin.vin)
 
-- Things I am really interested in: **Power electronics, Photonics, RF.**
+- Things I am really interested in: **RFIC, Power Electronics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
