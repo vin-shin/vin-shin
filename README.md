@@ -3,11 +3,11 @@
 
 - FOCing the [mako traction controller](https://github.com/vin-shin/makolongfin)
 
-- Electronics Lead at [Gaucho Racing](https://gauchoracing.com/)
+- Electrical Technical Director at [Gaucho Racing](https://gauchoracing.com/)
 
-- check my "website" out [shin.vin](https://shin.vin)
+- check my website out [shin.vin](https://shin.vin)
 
-- Things I am really interested in: **RFIC, Power Electronics**
+- Things I am really interested in: **Power Electronics, Power Systems Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
